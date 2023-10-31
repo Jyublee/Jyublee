@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Been Trapped here since 2003<br>📚 I'm currently specializing in cybersecurity<br>🎯 Goals: Become a security expert by graduation<br>🎲 Fun fact: I'm a Part time magician and Toastmaster</p>
+<p align="left">✨ Coding for age-14 Years<br>📚 I'm currently specializing in cybersecurity<br>🎯 Goals: Become a security expert by graduation<br>🎲 Fun fact: I'm a Part time magician and Toastmaster</p>
 
 ###
 
