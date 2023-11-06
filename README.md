@@ -12,10 +12,6 @@
   </a>
   <a href="discordapp.com/users/Jyublee#2621" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/jyubleee/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
@@ -24,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Coding for age-14 Years<br>📚 I'm currently specializing in cybersecurity<br>🎯 Goals: Become a security expert by graduation<br>🎲 Fun fact: I'm a Part time magician and Toastmaster</p>
+<p align="left">📚 I'm currently specializing in cybersecurity<br>🎯 Goals: Become a security expert by graduation<br>🎲 Fun fact: I'm a Part time magician and Toastmaster</p>
 
 ###
 
